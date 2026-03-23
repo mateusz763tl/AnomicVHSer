@@ -1,0 +1,3 @@
+@echo off
+echo Installing FFmpeg...
+winget install Gyan.FFmpeg.Shared
