@@ -18,3 +18,5 @@ api key tutorial here: https://youtu.be/hbPWSYpcvdc
 (you need ffmpeg. to install ffmpeg do the "Install FFmpeg.bat")
 
 Tamk.gif included for testing
+
+  Anomic VHSer  © 2026 by mateusz763tl is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
