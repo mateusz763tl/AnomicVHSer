@@ -5,7 +5,7 @@ Drag n drop a GIF/Video to "VHSer.bat" to run
 
 it will make a folder with the name of the gif.
 
-there will be a anomicinfo.txt file that says what FPS amount to set in anomic (if its higher than 10 fps then its gonna be slower in anomic
+there will be a anomicinfo.txt file that says what FPS amount to set in anomic (if its higher than 10 fps then its gonna be slower in anomic)
 
 "VHSer Tester.bat" will make a preview of what it should look like in anomic.
 
