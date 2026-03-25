@@ -273,7 +273,7 @@ if not "!ASSET_ID!"=="" (
     set /a SUCCESS+=1
     echo    OK - Asset ID: !ASSET_ID!
     echo [SUCCESS] !FILENAME! - Asset ID: !ASSET_ID! >> "%LOG_FILE%"
-    echo !FRAME_NUM!: !ASSET_ID! >> "!CURRENT_IDS_FILE!"
+    echo ,!ASSET_ID! >> "!CURRENT_IDS_FILE!"
 )
 
 echo.
