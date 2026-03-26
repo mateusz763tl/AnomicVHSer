@@ -1,3 +1,3 @@
 @echo off
 echo Installing FFmpeg...
-winget install Gyan.FFmpeg.Shared
+winget install BtbN.FFmpeg.GPL.Shared
