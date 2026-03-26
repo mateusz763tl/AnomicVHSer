@@ -1,7 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
 REM Set FrameSkip to higher/lower to increase/decrease final frame count
-SET /A FrameSkip=10
+SET /A FrameSkip=5
 set "input=%~f1"
 set "folder=%~n1"
 
